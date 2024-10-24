@@ -1,5 +1,5 @@
 # Bus Ticketing System
-<img width="578" alt="~" src="https://github.com/user-attachments/assets/e12ed895-98d3-4108-90e7-0789f0ff2dd0">
+<img width="547" alt="busar" src="https://github.com/user-attachments/assets/55095048-126e-46d6-bacb-474de5ec5b29">
 
 ## Overview
 The *Bus Ticketing System* is designed to streamline the process of booking bus tickets online. Users can register, log in, and book tickets for various destinations, while administrators can manage stations, trains, and schedules. The system is built using *Java, **JSP, and **SQLite* for data storage.
